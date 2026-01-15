@@ -113,8 +113,8 @@ body {
 .profile-card {
     background: var(--card-bg);
     border-radius: 26px;
-    padding: 40px;
-    margin:auto;
+    padding: 60px;
+    margin:0px;
     backdrop-filter: blur(16px);
     box-shadow: 0 30px 70px rgba(0,0,0,0.7);
 }
@@ -298,5 +298,6 @@ input {
         width: 120px;
     }
 }
+
 
 
